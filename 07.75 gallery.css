@@ -1,0 +1,63 @@
+.image {
+	width: 100%;
+	height: 250px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.image1 {
+	background-image: url(https://source.unsplash.com/b1NFkUR-3Fg);
+}
+
+.image2 {
+	background-image: url(https://scontent.fhou1-2.fna.fbcdn.net/v/t31.0-8/21248432_10102417933908318_5403339229810383403_o.jpg?oh=b737292b390a5e31f64aec8894410027&oe=5A18E038);
+}
+
+.image3 {
+	background-image: url(https://source.unsplash.com/-csZbF1o5_k);
+}
+
+.image4 {
+	background-image: url(https://source.unsplash.com/KeUKM5N-e_g);
+}
+
+.image5 {
+	background-image: url(https://source.unsplash.com/wVz99O4Bel4);
+}
+
+.image6 {
+	background-image: url(https://source.unsplash.com/trvP9JiYC1E);
+}
+
+.image7 {
+	background-image: url(https://source.unsplash.com/kFHz9Xh3PPU);
+}
+
+.image8 {
+	background-image: url(https://source.unsplash.com/i6Wc5qZO5MQ);
+}
+
+.image9 {
+	background-image: url(https://source.unsplash.com/fwWj5Y1IgQg);
+}
+
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}

@@ -1,0 +1,1 @@
+This is a project that I completed during Colt Steele's Web Developer bootcamp. It is a great example of HTML, CSS, Bootstrap, and first attempt at implementing a navbar.
